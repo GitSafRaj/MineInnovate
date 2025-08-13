@@ -34,6 +34,11 @@ Control Panel\User Accounts\Credential Manager
 # merge
 git checkout main
 git pull origin main
+git merge working_1_
+git push origin main
+
+
+
 
 git checkout main
 git merge working_1_ --allow-unrelated-histories
@@ -43,3 +48,8 @@ git checkout main
 git reset --hard working_1_
 git push origin main --force
 
+
+git diff
+
+git diff cmnds.txt
+git --no-pager diff
