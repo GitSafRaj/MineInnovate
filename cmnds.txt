@@ -18,3 +18,7 @@ git reflog
 git log --all --decorate --oneline --graph --date=iso
 git reflog --date=iso
 git reset --hard "HEAD@{2}"
+
+
+
+Control Panel\User Accounts\Credential Manager
