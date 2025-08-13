@@ -1,0 +1,20 @@
+# git
+
+git init
+git add .
+git commit -m "Initial commit"
+
+git remote add origin https://github.com/GitSafRaj/MineInnovate.git
+git push origin working_1_
+
+
+git config --global user.name "DevPC"
+git config --global user.email "safar.raj.scl@gmail.com"
+
+
+
+
+git reflog
+git log --all --decorate --oneline --graph --date=iso
+git reflog --date=iso
+git reset --hard "HEAD@{2}"
