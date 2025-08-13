@@ -48,3 +48,12 @@ git checkout main
 git reset --hard working_1_
 git push origin main --force
 
+
+git diff
+
+git diff cmnds.txt
+git --no-pager diff
+code cmnds.txt
+code .
+git difftool cmnds.txt
+git add cmnds.txt
