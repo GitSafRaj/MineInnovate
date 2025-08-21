@@ -12,7 +12,8 @@
     "react-router": "^6.30.1",
     "react-router-dom": "^6.30.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@remix-run/dev": "^2.17.0" //added manuually
   },
   "scripts": {
     "start": "react-scripts start",
