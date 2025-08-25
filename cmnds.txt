@@ -53,15 +53,4 @@ git diff
 
 git diff cmnds.txt
 git --no-pager diff
-code cmnds.txt
-code .
-git difftool cmnds.txt
-git add cmnds.txt
 
-
-
-# submodule concept
-cd frontend/ap_vr_0_1
-git add .
-git commit -m "Add files to submodule"
-git push
