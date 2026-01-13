@@ -1,0 +1,9 @@
+git clone -b main --single-branch https://github.com/GitSafRaj/MineInnovate.git MineInnovate-working_02_
+
+
+git init
+git branch -M main
+
+git add .
+git commit -m "Initial commit 130126 from hpvcts"
+
