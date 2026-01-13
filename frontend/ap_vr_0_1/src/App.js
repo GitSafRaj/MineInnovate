@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React from "react";
+import { Analytics } from "@vercel/analytics/react";
 // import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
@@ -21,6 +22,7 @@ function App() {
   return (
     // <Router>
     <div>
+      <Analytics/>      
       <Header />
       {/* <div>Hello</div> */}
       <Navbar />

@@ -15,7 +15,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "@remix-run/dev": "^2.17.0",
-    "@remix-run/react": "^2.17.0"
+    "@remix-run/react": "^2.17.0",
+    "@remix-run/node": "^2.11.1",
+    "@vercel/analytics": "^1.5.0"
   },
   "scripts": {
     "start": "react-scripts start",
